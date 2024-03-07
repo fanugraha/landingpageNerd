@@ -1,0 +1,70 @@
+.containerPromo {
+  background-color: #02021d;
+}
+
+.imgPromo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgPromo img {
+  width: 90%;
+  height: 90%;
+  object-fit: cover;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 12px;
+}
+
+.promoDesc {
+  text-align: center;
+  color: white;
+  font: 400 18px/1.12 "Poppins", sans-serif;
+  padding: 30px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  opacity: 0.6;
+}
+
+.btnClaimPromoFooter a {
+  text-decoration: none;
+  color: #02021d;
+  font: 700 30px/1.12 "Poppins", sans-serif;
+  padding: 12px;
+  background-color: #e4d49b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+/* Aturan CSS untuk tampilan pada PC */
+@media only screen and (min-width: 1024px) {
+  .imgPromo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .imgPromo img {
+    width: 50%;
+    height: 50%;
+  }
+
+  .promoDesc {
+    text-align: center;
+    color: white;
+    font: 400 40px/1.12 "Poppins", sans-serif;
+    padding: 100px;
+  }
+
+  .btnClaimPromoFooter {
+    font: 700 100px/1.12 "Poppins", sans-serif;
+    padding: 12px;
+    background-color: #e4d49b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+  }
+}

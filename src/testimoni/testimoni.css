@@ -1,0 +1,100 @@
+.containerTesttimoni {
+  background-color: #02021d;
+}
+
+.imgTesti {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.imgTesti img {
+  width: 90%;
+  height: 90%;
+  object-fit: cover;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-radius: 20px;
+}
+
+.imgTestiPro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.imgTestiPro img {
+  width: 90%;
+  height: 90%;
+  object-fit: cover;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-radius: 12px;
+}
+
+.imgHistori {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.imgHistori img {
+  width: 80%;
+  height: 80%;
+  object-fit: cover;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-radius: 12px;
+}
+
+/* Aturan CSS untuk tampilan pada PC */
+@media only screen and (min-width: 1024px) {
+.imgTesti {
+  gap: 100px;
+}
+
+.imgTesti img {
+  width: 40%;
+  height: 40%;
+  object-fit: cover;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-radius: 20px;
+}
+
+.imgTestiPro {
+  gap: 100px;
+}
+
+.imgTestiPro img {
+  width: 90%;
+  height: 90%;
+}
+
+.imgHistori {
+  gap: 100px;
+}
+
+.imgHistori img {
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-radius: 12px;
+}
+}
+
+/* Aturan CSS untuk tampilan pada tablet */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  body {
+    font-size: 16px;
+    /* Tambahkan aturan CSS lainnya untuk tampilan pada tablet di sini */
+  }
+}
