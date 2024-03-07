@@ -41,7 +41,7 @@ const Testimoni = () => {
           alt=""
         />
         <img
-          src="https://framerusercontent.com/images/IeU5WLTqP30mok9g20uAcgYi3dw.jpg?scale-down-to=1024"
+          src="https://framerusercontent.com/images/JIE1CFZ7o4PF0bWAp4QsB7q0Rk.jpg?scale-down-to=1024"
           alt=""
         />
       </div>
