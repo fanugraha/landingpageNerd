@@ -32,9 +32,18 @@ const Testimoni = () => {
       </div>
       <div className="percayakan">Nabrak PRO PLAYER? Gak Masalah!!</div>
       <div className="imgTestiPro">
-        <img src="src\assets\Screenshot_20240306-014633.jpg" alt="" />
-        <img src="src\assets\Screenshot_20240306-014644.jpg" alt="" />
-        <img src="src\assets\Screenshot_20240306-021539.jpg" alt="" />
+        <img
+          src="https://framerusercontent.com/images/EHHsJdJEeZE2DNCJmyq6zyzZq8.jpg?scale-down-to=1024"
+          alt=""
+        />
+        <img
+          src="https://framerusercontent.com/images/IeU5WLTqP30mok9g20uAcgYi3dw.jpg?scale-down-to=1024"
+          alt=""
+        />
+        <img
+          src="https://framerusercontent.com/images/IeU5WLTqP30mok9g20uAcgYi3dw.jpg?scale-down-to=1024"
+          alt=""
+        />
       </div>
       <div className="percayakan">
         Dijamin Winstreak & Bonus Maniac + Savage
