@@ -2,7 +2,7 @@ import "./promo.css";
 
 const Promo = () => {
   return (
-    <div className="containerPromo">
+    <div id="promoSection" className="containerPromo">
       <div className="percayakan">
         Harga Paling Murah Dibandingkan Store Lainnya
       </div>

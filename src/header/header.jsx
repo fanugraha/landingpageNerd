@@ -8,7 +8,7 @@ const Header = () => {
         Seumur-umur gak pernah nyentuh rank imortal gara-gara di troll mulu
       </h2>
       <div className="btnClaimPromoHeader">
-        <a href="https://wa.me/6285163549988">KLAIM PROMO</a>
+        <a href="#promoSection">KLAIM PROMO</a>
       </div>
       <div className="headlineImg">
         <img
