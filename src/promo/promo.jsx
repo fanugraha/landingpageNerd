@@ -8,7 +8,7 @@ const Promo = () => {
       </div>
       <div className="imgPromo">
         <img
-          src="https://framerusercontent.com/images/r5Jd297XlKa7emUMis7b78NK98.png?scale-down-to=512"
+          src="https://framerusercontent.com/images/NdGGTdTbvwQbKDDv5sriUJS4gKs.png"
           alt=""
         />
       </div>
@@ -18,7 +18,7 @@ const Promo = () => {
       </div>
       <div className="imgPromo">
         <img
-          src="https://framerusercontent.com/images/KoARlevzXMd2J0BkMIAgkwo8dI.png?scale-down-to=512"
+          src="https://framerusercontent.com/images/gI5i6WlnU9RCPzU9KMiZtuxauE.png"
           alt=""
         />
       </div>
